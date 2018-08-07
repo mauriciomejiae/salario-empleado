@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\salario empleado\salario empleado\bin\Debug\salario empleado.exe.config
+C:\Users\Mauricio M\Downloads\salario empleado\salario empleado\bin\Debug\salario empleado.exe
+C:\Users\Mauricio M\Downloads\salario empleado\salario empleado\bin\Debug\salario empleado.pdb
+C:\Users\Mauricio M\Downloads\salario empleado\salario empleado\obj\Debug\salario empleado.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\salario empleado\salario empleado\obj\Debug\salario empleado.exe
+C:\Users\Mauricio M\Downloads\salario empleado\salario empleado\obj\Debug\salario empleado.pdb
